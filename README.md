@@ -2,7 +2,7 @@
 
 
 [![00xdF's GitHub stats](https://github-readme-stats.vercel.app/api?username=00xdF)](https://github.com/00xdF)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00xdF&stats_format=bytes)
 <!--
 **00xdF/00xdF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
